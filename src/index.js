@@ -5,6 +5,7 @@ const names = params.getAll('name'); // Get the names out of the url
 const newSpinner = new Spinner();
 
 newSpinner.createSpinner(names); // Set up a new spinner
+newSpinner.createBulbs();
 
 const spinner = document.querySelector(".spinner");
 
