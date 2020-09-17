@@ -2,7 +2,7 @@
 
 A quick way to choose someone or make life choices!
 
-Choice someone from a group like this:
+Choose someone from a group like this:
 
 ```
 http://richyarwood.github.io/choice-spinner/?name=Frank&name=Lisa&name=John
