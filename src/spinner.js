@@ -30,7 +30,7 @@ export default class Spinner {
       const bulb = document.createElement('div');
       bulbContainer.classList.add('bulb-container');
       bulb.classList.add('bulb');
-      bulb.setAttribute('style', `transform: rotate(${bulbRotate}deg) translateX(-222px)`);
+      bulb.setAttribute('style', `transform: rotate(${bulbRotate}deg) translateX(-375px)`);
       bulbContainer.appendChild(bulb)
       spinner.appendChild(bulbContainer);
 
