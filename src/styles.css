@@ -5,6 +5,15 @@
 
 body {
   font-family: 'Ranchers', cursive;
+  background-color: rgb(121, 213, 252);
+}
+
+h1 {
+  color: rgb(216, 149, 24);
+  font-size: 80px;
+  letter-spacing: 4px;
+  margin-bottom: 40px;
+  text-shadow: 2px 2px 5px rgba(0,0,0,0.75);
 }
 
 main {
@@ -44,6 +53,7 @@ main {
   padding: 10px;
   height: 100%;
   width: 100%;
+  box-shadow: 2px 4px 31px 0px rgba(0,0,0,0.75);
 }
 
 .spinner::before {
